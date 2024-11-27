@@ -8,6 +8,9 @@ namespace LogVariableTask
 {
     public class LogVariableTask
     {
-
+        public LogVariableTask()
+        {
+            
+        }
     }
 }
