@@ -10,7 +10,7 @@ namespace LogVariableTask
     {
         public LogVariableTask()
         {
-            
+            //public key token is 53a54c1d0a7a6530
         }
     }
 }
