@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("LogVariableTaskUI")]
+[assembly: AssemblyTitle("LogVariableTask")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("LogVariableTaskUI")]
+[assembly: AssemblyProduct("LogVariableTask")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("456525ed-5123-434d-8359-3e1c2b762d8f")]
+[assembly: Guid("ecc83ba3-f911-4df3-ad11-99e9ab16afd3")]
 
 // Version information for an assembly consists of the following four values:
 //
