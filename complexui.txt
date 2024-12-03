@@ -1,1 +1,10 @@
 //sample
+add Microsoft.SqlServer.Management.IntegrationServices dll
+Microsoft.SqlServer.Management.Sdk.Sfc
+Microsoft.DataTransformationServices.Controls
+check photo 
+add private TaskHost taskHost = null; private IDtsConnectionService connectionService = null; feilds in UI class
+this should go in this.taskHost = taskHost;this.connectionService = serviceProvider.GetService(typeof(IDtsConnectionService)) as IDtsConnectionService; ui task initialize method
+public partial class ExecuteCatalogPackageTaskComplexUIForm : DTSBaseTaskUI
+using Microsoft.DataTransformationServices.Controls; - 8th line
+
