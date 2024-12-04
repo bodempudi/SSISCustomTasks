@@ -1,3 +1,8 @@
+#region Assembly Microsoft.SqlServer.FTPTaskUI, Version=13.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91
+// C:\Users\LENOVO\Downloads\New folder\Microsoft.SqlServer.FTPTaskUI\v4.0_13.0.0.0__89845dcd8080cc91\Microsoft.SqlServer.FtpTaskUI.dll
+// Decompiled with ICSharpCode.Decompiler 8.1.1.7464
+#endregion
+
 using System;
 using System.Collections;
 using System.ComponentModel;
@@ -223,4 +228,44 @@ internal class FTPTaskGeneralView : UserControl, IDTSTaskUIView
         }
     }
 }
- 
+#if false // Decompilation log
+'11' items in cache
+------------------
+Resolve: 'mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'
+Found single assembly: 'mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'
+Load from: 'C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\mscorlib.dll'
+------------------
+Resolve: 'System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'
+Could not find by name: 'System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'
+------------------
+Resolve: 'Microsoft.DataTransformationServices.Controls, Version=13.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91'
+Could not find by name: 'Microsoft.DataTransformationServices.Controls, Version=13.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91'
+------------------
+Resolve: 'System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'
+Found single assembly: 'System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'
+Load from: 'C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll'
+------------------
+Resolve: 'Microsoft.SqlServer.Dts.Design, Version=13.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91'
+Could not find by name: 'Microsoft.SqlServer.Dts.Design, Version=13.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91'
+------------------
+Resolve: 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+Could not find by name: 'System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a'
+------------------
+Resolve: 'Microsoft.SqlServer.ManagedDTS, Version=13.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91'
+Could not find by name: 'Microsoft.SqlServer.ManagedDTS, Version=13.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91'
+------------------
+Resolve: 'Microsoft.SqlServer.FtpTask, Version=13.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91'
+Found single assembly: 'Microsoft.SqlServer.FtpTask, Version=13.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91'
+Load from: 'C:\Users\LENOVO\Downloads\New folder\Microsoft.SqlServer.FtpTask\v4.0_13.0.0.0__89845dcd8080cc91\Microsoft.SqlServer.FtpTask.dll'
+------------------
+Resolve: 'Microsoft.NetEnterpriseServers.ExceptionMessageBox, Version=13.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91'
+Could not find by name: 'Microsoft.NetEnterpriseServers.ExceptionMessageBox, Version=13.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91'
+------------------
+Resolve: 'mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'
+Found single assembly: 'mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'
+WARN: Version mismatch. Expected: '2.0.0.0', Got: '4.0.0.0'
+Load from: 'C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\mscorlib.dll'
+------------------
+Resolve: 'System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'
+Could not find by name: 'System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089'
+#endif
