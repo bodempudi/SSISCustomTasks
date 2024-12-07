@@ -4,6 +4,7 @@ individual tasks
 
 1. CustomGridControl - Done
 2. GenericBindStorage - Done
-3. ParamBindStorage - 
-5. IDTSVariabale
-6. ParamView
+3. ParamBindStorage - Done
+5. IDTSVariabale - Done
+6. ParamView - 
+7. Execute SQL Task
