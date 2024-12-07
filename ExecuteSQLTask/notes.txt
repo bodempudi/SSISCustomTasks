@@ -3,7 +3,7 @@ https://stackoverflow.com/questions/44360824/grid-control-in-ssms
 individual tasks
 
 1. CustomGridControl - Done
-2. GenericBindStorage
-3. ParamBindStorage
+2. GenericBindStorage - Done
+3. ParamBindStorage - 
 5. IDTSVariabale
 6. ParamView
